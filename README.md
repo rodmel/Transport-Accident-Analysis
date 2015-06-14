@@ -19,9 +19,9 @@ This project conducts statistical data analysis of the collision datasets using 
 9. [Which month of the year usually have high collision rate?](doc/H09/Hypothesis_09.md)
 10. [Which particular day and time of the week have high collision rate?](doc/H10/Hypothesis_10.md)
 
+----
 
-
-## Dataset
+### Dataset
 The source dataset `NCDB_1999_to_2011.csv` was downloaded as of May 2015 from [National Collision Database 1999 to 2011 (NCDB)](http://open.canada.ca/data/en/dataset/1eb9eba7-71d1-4b30-9fb1-30cbdab7e63a). It has *4.9 million observations* with *22 attributes*  [309 MB size]. 
 
 ![](doc/NCDB_Raw_Sample.png)
@@ -68,7 +68,7 @@ No.| ATTRIBUTE  | SIZE  | DESCRIPTION                              |
 For more detailed information, refer to the [**DATA DICTIONARY**](doc/Data_Dictionary.md) for all possible values and their meaning for each attribute.
 
 
-## Approach
+### Approach
 
 ![](doc/Approach_Diagram.png)
 
@@ -82,7 +82,7 @@ Capture the screenshots of the tables and Generate the graph.
 
 
 <BR>
-## Results
+### Results
 
 No. | Hypothesis | Result | Source Code 
 ----|-----------|--------|------------|
