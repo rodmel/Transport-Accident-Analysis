@@ -15,7 +15,7 @@ Road surface conditions are reduced as well into the following:
  - Snow
  - Slushy (wet snow) and
  - Icy
- - 
+
 The rest of the road surface conditions are also removed (such as gravel/sand, oil, muddy and flooded) as the proportion of these surface are very small.
 
 Below is the resulting graph with five panels for each identified road surface. Surprisingly, the *"Dry/Normal"* road surface condition prominently has the highest number of collision compared to the rest. The *two vehicular accidents*  (both same and different direction) are the most type of collisions that happen in dry/normal conditions. 
