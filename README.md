@@ -7,6 +7,7 @@
 The Government of Canada's [**Open Data Portal**](http://open.canada.ca/en) has provided an open dataset containing 13-year records of all police-reported motor vehicle collisions on public roads in Canada from 1999 to 2011. The data are provided by the provinces and territories to federal government and combined as national-level collision database. 
 
 This project conducts statistical data analysis of the collision datasets using R application and aims to find conclusion to the folloiwng defined hypotheses:
+
 1. [Which types of vehicular collisions have high trend of fatalities and injuries from 1999 to 2011?](doc/H01/Hypothesis_01.md)
 2. [Which passenger seat position in the Light Duty Vehicles is the safest/most dangerous?](doc/H02/Hypothesis_02.md) | [Source Code](doc/H02/H02_scripts.R)
 3. [Do drivers with different genders have different accident pattern?](doc/H03/Hypothesis_03.md)
