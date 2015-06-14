@@ -27,7 +27,7 @@ The source dataset `NCDB_1999_to_2011.csv` is downloaded as of May 2015 from [Na
 ![](doc/H00/HeadTail_NCDB.png)
 
 
-Each record has collission level, vehicle level and person level data elements as tabulated below.
+Each record has collission level, vehicle level and person level data elements as tabulated below. Correspondingly, it also indicates which attribute is used in this analysis.
 
 #####Collision level data elements
 
