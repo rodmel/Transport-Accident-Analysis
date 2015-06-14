@@ -67,12 +67,12 @@ No.| ATTRIBUTE  | SIZE  | DESCRIPTION                              | Used in Ana
 
 ---
 
->
->
->###[DATA DICTIONARY:](doc/Data_Dictionary.md)
->######For more detailed information of all possible values and meaning of each attribute,
->######refer to this [DATA DICTIONARY](doc/Data_Dictionary.md) link.
->
+
+
+###[DATA DICTIONARY:](doc/Data_Dictionary.md)
+For more detailed information of all possible values and meaning of each attribute,
+refer to this [DATA DICTIONARY](doc/Data_Dictionary.md) link.
+
 
 ----
 
