@@ -67,6 +67,7 @@ No.| ATTRIBUTE  | SIZE  | DESCRIPTION                              |
 #####[DATA DICTIONARY](doc/Data_Dictionary.md)
 For more detailed information, refer to the [**DATA DICTIONARY**](doc/Data_Dictionary.md) for all possible values and their meaning for each attribute.
 
+----
 
 ### Approach
 
