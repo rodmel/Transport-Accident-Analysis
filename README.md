@@ -5,8 +5,6 @@
 ------
 
 
-
-
 No. | Hypothesis | Result | Source Code 
 ----|-----------|--------|------------|
 1. | Which types of vehicular collisions have high trend of fatalities and injuries from 1999 to 2011? | [Results](doc/H01/Hypothesis_01.md) | [Source Code](doc/H01/H01_scripts.R)
@@ -85,8 +83,8 @@ No.| ATTRIBUTE  | SIZE  | DESCRIPTION                              |
 22 | P_USER     |  1    | Road user class	                   |
 
 <br><br>
-#####[DATA DICTIONARY](Data_Dictionary.md)
-For more detailed information, refer to the [**DATA DICTIONARY**](Data_Dictionary.md) for all possible values and their meaning for each attribute.
+#####[DATA DICTIONARY](doc/Data_Dictionary.md)
+For more detailed information, refer to the [**DATA DICTIONARY**](doc/Data_Dictionary.md) for all possible values and their meaning for each attribute.
 
 
 ## Approach
