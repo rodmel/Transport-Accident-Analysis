@@ -31,24 +31,8 @@ Each record has collission level, vehicle level and person level data elements a
 
 #####Collision level data elements
 
-No.| ATTRIBUTE  | SIZE  | DESCRIPTION                     | Used |
----|------------|-----|------------------------------------------|----|
-1  | C_YEAR   |  4	| Year in which the collision occurred |![](doc/H00/check.png)|
-2  | C_MNTH   |  2	| Month in which the collision occurred  |![](doc/H00/check.png)|
-3  | C_WDAY     |  1	| Day of the week the collision occurred |![](doc/H00/check.png)|
-4  | C_HOUR     |  2	| Collision hour                         |![](doc/H00/check.png)|
-5  | C_SEV      |  1	| Collision severity                     |![](doc/H00/check.png)|
-6  | C_VEHS     |  2	| Number of vehicles involved in collision| |
-7  | C_CONF     |  2	| Collision configuration                |![](doc/H00/check.png)|
-8  | C_RCFG     |  2	| Roadway configuration	                |![](doc/H00/check.png)|
-9  | C_WTHR     |  1	| Weather condition	                   |![](doc/H00/check.png)|
-10 | C_RSUR     |  1	| Road surface                        |![](doc/H00/check.png)|
-11 | C_RALN     |  1	| Road alignment	                   |![](doc/H00/check.png)|
-12 | C_TRAF     |  2	| Traffic control                          | |
-
-
-No.| ATTRIBUTE  | SIZE  | DESCRIPTION                     |Used |
----|------------|-----|------------------------------------------|--|
+No.| ATTRIBUTE  | SIZE  | DESCRIPTION                     | Used in Analysis |
+---|------------|-----|------------------------------------------|:----:|
 1  | C_YEAR     |  4	| Year in which the collision occurred |![](doc/H00/check.png)|
 2  | C_MNTH     |  2	| Month in which the collision occurred  |![](doc/H00/check.png)|
 3  | C_WDAY     |  1	| Day of the week the collision occurred |![](doc/H00/check.png)|
@@ -64,22 +48,22 @@ No.| ATTRIBUTE  | SIZE  | DESCRIPTION                     |Used |
 
 
 #####Vehicle level data elements
-No.| ATTRIBUTE  | SIZE  | DESCRIPTION                              |
----|------------|-------|------------------------------------------|
-13  | V_ID      |  2   | Vehicle sequence number                   |
-14  | V_TYPE    |  2   | Vehicle type                              |
-15  | V_YEAR    |  4   | Vehicle model year                        |
+No.| ATTRIBUTE  | SIZE  | DESCRIPTION                              | Used in Analysis |
+---|------------|-------|------------------------------------------|:----:|
+13  | V_ID      |  2   | Vehicle sequence number                   |  |
+14  | V_TYPE    |  2   | Vehicle type                              | ![](doc/H00/check.png) |
+15  | V_YEAR    |  4   | Vehicle model year                        |  |
 
 #####Person level data elements
-No.| ATTRIBUTE  | SIZE  | DESCRIPTION                              |
----|------------|-------|------------------------------------------|
-16 | P_ID       |  2    | Person sequence number                   |
-17 | P_SEX      |  1    | Person sex                               |
-18 | P_AGE      |  2    | Person age	                           |
-19 | P_PSN      |  2    | Person position	                   |
-20 | P_ISEV     |  1    | Injury Severity (Medical treatment required)             |
-21 | P_SAFE     |  2    | Safety device used	                   |
-22 | P_USER     |  1    | Road user class	                   |
+No.| ATTRIBUTE  | SIZE  | DESCRIPTION                              | Used in Analysis |
+---|------------|-------|------------------------------------------|:----:|
+16 | P_ID       |  2    | Person sequence number                   |  |
+17 | P_SEX      |  1    | Person sex                               | ![](doc/H00/check.png) |
+18 | P_AGE      |  2    | Person age	                           | ![](doc/H00/check.png) |
+19 | P_PSN      |  2    | Person position	                   | ![](doc/H00/check.png) |
+20 | P_ISEV     |  1    | Injury Severity                    | ![](doc/H00/check.png) |
+21 | P_SAFE     |  2    | Safety device used	                 |  |
+22 | P_USER     |  1    | Road user class	                   |  ![](doc/H00/check.png)|
 
 <br><br>
 #####[DATA DICTIONARY](doc/Data_Dictionary.md)
