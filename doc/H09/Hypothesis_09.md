@@ -10,14 +10,14 @@ The graphs and tables below show the trends for the **Total Collisions**  and **
 --
 
 |**TOTAL COLLISIONS**|
-|--------------------|
+|:------------------:|
 ![](H09_GraphA.png)|
 ![](H09_TableA.png)|
 
 --
 
 |*FATALITIES*|
-|--------------------|
+|:------------------:|
 ![](H09_GraphB.png)|
 ![](H09_TableB.png)|
 
