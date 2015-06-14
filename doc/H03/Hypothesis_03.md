@@ -2,19 +2,20 @@
 ### Do drivers with different genders have different accident pattern?
 --
 
+The dataset is filtered out to extract only the accident records of the drivers. 
+
 To simplify the analysis of trend, the collision types are converted into four major categories 
 * Single Vehicle In Motion
 * Two Vehicles In Motion - Same Direction of Travel
 * Two Vehicles In Motion - Different Direction of Travel
 * Hit a Parked Motor Vehicle
 
-The rest of collision types are excluded and only the records of drivers are summarized. Below is the summary of **number of collisions** per gender of the driver for each major collision category per year:
-![](H03_TableA.png)
+The data is tabulated according to **Gender** and **Collision Category** per year. The data is visualized to show the yearly trend of male female drivers for each major collision categtory. The graph below shows in four panel per collision type and for each collisison type shows the yearly trend from 1999 to 2011. The frequency of the accidents occured for male drivers are consistently higher than female drivers. Although there is a big difference in frequency, the accident trends of male drivers for each collision category are very similar compared to the female drivers and it apperas that ** there is no significan difference between two genders.* 
 
 
-Graph:
-Although the frequency of the accidents occured for male drivers are always higher than female drivers, the graph clearly shows that **there is no significant difference in accident trends** between the two genders between 1999 and 2011. This is the same for all four major collision categories. 
 ![](H03_GraphA.png)
+
+![](H03_TableA.png)
 
 
 --
