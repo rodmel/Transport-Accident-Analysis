@@ -1,6 +1,19 @@
 #### Hypothesis 07:
 ### Which types of accidents are more frequent in various road alignments?
 
+This hypothesis tries to determine if there is a different collission trends between different road alignments.
+
+Similar to previous hypothesis, the collision types are categorized into major categories and will plot its trends based on the following road alignments:
+ - Straight and level
+ - Straight with gradient
+ - Curved and level
+ - Curved with gradient
+ - Top of hill or gradient
+ -  Bottom of hill or gradient 
+
+The resulted graph below shows that the **Curved** roads (3rd and 4th panel) have the higher rate of "single vehicular collision" but the difference in frequency is not much significant. Regardless of the alignment, the normal **Straight and Level** road alignment prominently has very high frequency of collissions led by "two vehicular collisions".
+
+
 --
 
 ![](H07_GraphA.png)
