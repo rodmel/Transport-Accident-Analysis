@@ -11,8 +11,7 @@ Similar to previous hypothesis, the collision types are categorized into major c
  - Top of hill or gradient
  -  Bottom of hill or gradient 
 
-The resulted graph below shows that the **Curved** roads (3rd and 4th panel) have the higher rate of "single vehicular collision" but the difference in frequency is not much significant. Regardless of the alignment, the normal **Straight and Level** road alignment prominently has very high frequency of collissions led by "two vehicular collisions".
-
+The resulted graph below shows that the **curved** roads (3rd and 4th panel) have the slightly higher rate of "**single vehicular collision**" compared to other collision types. Out of all types of road alignments, the normal **Straight and Level** road alignment prominently has very high frequency of collissions led by "two vehicular collisions".
 
 --
 
