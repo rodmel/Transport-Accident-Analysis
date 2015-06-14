@@ -71,7 +71,7 @@ No.| ATTRIBUTE  | SIZE  | DESCRIPTION                              | Used in Ana
 >
 >###[DATA DICTIONARY:](doc/Data_Dictionary.md)
 >######For more detailed information of all possible values and meaning of each attribute,
->######refer to thIS [DATA DICTIONARY](doc/Data_Dictionary.md) link.
+>######refer to this [DATA DICTIONARY](doc/Data_Dictionary.md) link.
 >
 
 ----
