@@ -31,20 +31,20 @@ Each record has collission level, vehicle level and person level data elements a
 
 #####Collision level data elements
 
-No.| ATTRIBUTE  | SIZE  | DESCRIPTION                     |
----|------------|-----|------------------------------------------|
-1  | C_YEAR   ![](doc/H00/check.png)  |  4	| Year in which the collision occurred |
-2  | C_MNTH   ![](doc/H00/check.png)  |  2	| Month in which the collision occurred  |
-3  | C_WDAY     |  1	| Day of the week the collision occurred |
-4  | C_HOUR     |  2	| Collision hour                         |
-5  | C_SEV      |  1	| Collision severity                     |
-6  | C_VEHS     |  2	| Number of vehicles involved in collision|
-7  | C_CONF     |  2	| Collision configuration                |
-8  | C_RCFG     |  2	| Roadway configuration	                |
-9  | C_WTHR     |  1	| Weather condition	                   |
-10 | C_RSUR     |  1	| Road surface                        |
-11 | C_RALN     |  1	| Road alignment	                   |
-12 | C_TRAF     |  2	| Traffic control                          |
+No.| ATTRIBUTE  | SIZE  | DESCRIPTION                     | Used |
+---|------------|-----|------------------------------------------|----|
+1  | C_YEAR   |  4	| Year in which the collision occurred |![](doc/H00/check.png)|
+2  | C_MNTH   |  2	| Month in which the collision occurred  |![](doc/H00/check.png)|
+3  | C_WDAY     |  1	| Day of the week the collision occurred |![](doc/H00/check.png)|
+4  | C_HOUR     |  2	| Collision hour                         |![](doc/H00/check.png)|
+5  | C_SEV      |  1	| Collision severity                     |![](doc/H00/check.png)|
+6  | C_VEHS     |  2	| Number of vehicles involved in collision| |
+7  | C_CONF     |  2	| Collision configuration                |![](doc/H00/check.png)|
+8  | C_RCFG     |  2	| Roadway configuration	                |![](doc/H00/check.png)|
+9  | C_WTHR     |  1	| Weather condition	                   |![](doc/H00/check.png)|
+10 | C_RSUR     |  1	| Road surface                        |![](doc/H00/check.png)|
+11 | C_RALN     |  1	| Road alignment	                   |![](doc/H00/check.png)|
+12 | C_TRAF     |  2	| Traffic control                          | |
 
 
 No.| ATTRIBUTE  | SIZE  | DESCRIPTION                     |Used |
