@@ -2,13 +2,25 @@
 ### Which types of accidents are more frequent in various road surface conditions?
 
 --
-In this summary, the collision types are reclassified into major categories to simplify the visualization. Some of the road surface conditions are also removed (such as the gravel/sand, oil, muddy and flooded) as the proportion of these surface conditions are very small. This summary focuses mainly on dry, wet and the rest of wintry surface conditions such as snow, slushy/wet snow, and icy conditions.
 
-Below is the graph and the tabulated summary of the collision per road surface. Surprisingly, the *Dry/Normal* road surface condition prominently has the highest number of collision compared to wintry and wet conditions. The *two vehicular accidents*  (both same and different direction) are the most type of collisions occur in dry/normal conditions. 
+This hypothesis tries to determine which kind of accidents frequently happen in certain type of road surface conditions. To simplify the visualization, the collision types are categorized into four major categories:
+ - Single vehicular collisisons, 
+ - Two vehicles in the same dierction
+ - Two vehichels in different direction and
+ - Hitting a parked vehicles.
+ 
+Road surface conditions are reduced as well into the following:
+ - Dry/Normal
+ - Wet
+ - Snow
+ - Slushy (wet snow) and
+ - Icy
+ - 
+The rest of the road surface conditions are also removed (such as gravel/sand, oil, muddy and flooded) as the proportion of these surface are very small.
 
-In terms of these "two vehicular accidents*, the vehicle running on the same direction type is consistently higher than the *different direction* collisions on dry/normal road surface condition but during the *wet* and *snowy* conditions, the *different direction* collisions are  higher.
+Below is the resulting graph with five panels for each identified road surface. Surprisingly, the *"Dry/Normal"* road surface condition prominently has the highest number of collision compared to the rest. The *two vehicular accidents*  (both same and different direction) are the most type of collisions that happen in dry/normal conditions. 
 
-The *single vehicular accident* appears frequently high on dry/normal road surface condition as well but it is the leading type of accident that occurs during the icy condition.
+For the wintry (snow, slushy/wet snow and icy) road surface conditions, all types of collisions have not much difference in frequency but surprisingly very low compared to the "dry/normal" road surface.
 
 ![](H06_GraphA.png)
 
