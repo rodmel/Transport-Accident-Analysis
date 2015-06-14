@@ -22,7 +22,7 @@ This project conducts statistical data analysis of the collision datasets using 
 ----
 
 ### Dataset
-The source dataset `NCDB_1999_to_2011.csv` was downloaded as of May 2015 from [National Collision Database 1999 to 2011 (NCDB)](http://open.canada.ca/data/en/dataset/1eb9eba7-71d1-4b30-9fb1-30cbdab7e63a). It has *4.9 million observations* with *22 attributes*  [309 MB size]. 
+The source dataset `NCDB_1999_to_2011.csv` is downloaded as of May 2015 from [National Collision Database 1999 to 2011 (NCDB)](http://open.canada.ca/data/en/dataset/1eb9eba7-71d1-4b30-9fb1-30cbdab7e63a). It has *4.9 million observations* with *22 attributes*  [309 MB size]. 
 
 ![](doc/NCDB_Raw_Sample.png)
 
