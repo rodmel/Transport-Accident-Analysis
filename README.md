@@ -1,27 +1,26 @@
 
 #Transport Accident Analysis
 #####**Exploring Insights from National Collision Database (NCDB) Open Data from Transport Canada**
-====================================================================================================
-
+===========
 
 ### Introduction
 The Government of Canada's [**Open Data Portal**](http://open.canada.ca/en) has provided an open dataset containing 13-year records of all police-reported motor vehicle collisions on public roads in Canada from 1999 to 2011. The data are provided by the provinces and territories to federal government and combined as national-level collision database. 
 
 This project conducts statistical data analysis of the collision datasets using R application and aims to find conclusion to the folloiwng defined hypotheses:
-
 1. [Which types of vehicular collisions have high trend of fatalities and injuries from 1999 to 2011?](doc/H01/Hypothesis_01.md)
-2. Which passenger seat position in the Light Duty Vehicles is the safest/most dangerous?
+2. [Which passenger seat position in the Light Duty Vehicles is the safest/most dangerous?](doc/H02/Hypothesis_02.md) | [Source Code](doc/H02/H02_scripts.R)
 3. [Do drivers with different genders have different accident pattern?](doc/H03/Hypothesis_03.md)
 4. [Is there a certain age range of drivers that are more likely to be involved in a single vehicular accident?](doc/H04/Hypothesis_04.md)
 5. [In terms of single vehicular accidents, are young male drivers more dangerous compared to female?](doc/H05/Hypothesis_05.md)
-6. [Which types of accidents are more frequent in various road surface conditions (e.g. dry, wet, snowy and icy) ?](doc/H06/Hypothesis_06.md)
+6. [Which types of accidents are more frequent in various road surface conditions (e.g. dry, wet, snowy and icy)?](doc/H06/Hypothesis_06.md)
 7. [Which types of accidents are more frequent in various road alignments (e.g. Straight, curved, hill, and gradient)?](doc/H07/Hypothesis_07.md)
-8. Which road surface conditions and road alignments have frequent fatal pedestrian accidents?
-9. Which month of the year usually have high collision rate?
-10. Which particular day and time of the week have high collision rate?
+8. [What roadway configurations (e.g. intersection, ramp etc.) and weather (e.g. raining, snowing etc.) have high frequency of collision?](doc/H08/Hypothesis_08.md)
+9. [Which month of the year usually have high collision rate?](doc/H09/Hypothesis_09.md)
+10. [Which particular day and time of the week have high collision rate?](doc/H10/Hypothesis_10.md)
+
+
 
 ## Dataset
-
 The source dataset `NCDB_1999_to_2011.csv` was downloaded as of May 2015 from [National Collision Database 1999 to 2011 (NCDB)](http://open.canada.ca/data/en/dataset/1eb9eba7-71d1-4b30-9fb1-30cbdab7e63a). It has *4.9 million observations* with *22 attributes*  [309 MB size]. 
 
 ![](doc/NCDB_Raw_Sample.png)
