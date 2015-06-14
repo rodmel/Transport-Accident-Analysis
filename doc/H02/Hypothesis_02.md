@@ -10,11 +10,10 @@ For a two-row  light-duty vehicle, the **2nd Row Center** appears to be the safe
 
 The **3rd Row Center** appears very interesting as it appears to be having the lowest injury probablity among all the positions but at the same time it has the highest fatality ratio compared to other positions.
 
-|Table and Graphs|
+||
 |-------|
-|![](H02_TableA.png)|
 |![](H02_GraphA.png)|
-
+|![](H02_TableA.png)|
 
 --
  
