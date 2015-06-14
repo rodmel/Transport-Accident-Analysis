@@ -33,8 +33,8 @@ Each record has collission level, vehicle level and person level data elements a
 
 No.| ATTRIBUTE  | SIZE  | DESCRIPTION                     |
 ---|------------|-----|------------------------------------------|
-1  | C_YEAR     |  4	| Year in which the collision occurred |
-2  | C_MNTH     |  2	| Month in which the collision occurred  |
+1  | C_YEAR   ![](doc/H00/check.png)  |  4	| Year in which the collision occurred |
+2  | C_MNTH   ![](doc/H00/check.png)  |  2	| Month in which the collision occurred  |
 3  | C_WDAY     |  1	| Day of the week the collision occurred |
 4  | C_HOUR     |  2	| Collision hour                         |
 5  | C_SEV      |  1	| Collision severity                     |
