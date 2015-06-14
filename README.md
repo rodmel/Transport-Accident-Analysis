@@ -1,14 +1,11 @@
 
 #Transport Accident Analysis
 #####**Exploring Insights from National Collision Database (NCDB) Open Data from Transport Canada**
-==========
-
- 
-
-
 =================
-### Introduction
 
+
+
+### Introduction
 The Government of Canada's [**Open Data Portal**](http://open.canada.ca/en) has provided an open dataset containing 13-year records of all police-reported motor vehicle collisions on public roads in Canada from 1999 to 2011. The data are provided by the provinces and territories to federal government and combined as national-level collision database. 
 
 This project conducts statistical data analysis of the collision datasets using R application and aims to find conclusion to the folloiwng defined hypotheses:
