@@ -65,10 +65,12 @@ No.| ATTRIBUTE  | SIZE  | DESCRIPTION                              | Used in Ana
 21 | P_SAFE     |  2    | Safety device used	                 |  |
 22 | P_USER     |  1    | Road user class	                   |  ![](doc/H00/check.png)|
 
-###DATA DICTIONARY
-| For more detailed information of all possible values and meaning of each attribute, refer to the [DATA DICTIONARY](doc/Data_Dictionary.md) link below:|
-|:---------:|
-|[DATA DICTIONARY](doc/Data_Dictionary.md)|
+
+
+>###[DATA DICTIONARY:](doc/Data_Dictionary.md)
+>######For more detailed information of all possible values and meaning of each attribute,
+>######refer to the [DATA DICTIONARY](doc/Data_Dictionary.md) link below:
+>######[DATA DICTIONARY](doc/Data_Dictionary.md)
 
 
 ----
