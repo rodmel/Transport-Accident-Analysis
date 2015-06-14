@@ -82,11 +82,17 @@ refer to this [DATA DICTIONARY](doc/Data_Dictionary.md) link.
 
 
 <BR>
-#####Data Preparation
-Dataset is loaded into dataframe named "NCDB" and replaced the unknown and not available attributes into NA values.
-Factors of the attributes are changed into descriptive labels according to the [data dictionary](Data_Dictionary.md).
-Filter the datasets into "complete cases only" to remove not applicable values.
-Capture the screenshots of the tables and Generate the graph.
+#####Approach Details:
+- Dataset is loaded into dataframe named "NCDB" 
+- Create a subset by selecting only the attributes that will be used in particular hypothesis
+- For each attribute, convert to NA values that are unknown or not applicable or in some cases some values that will be excluded in the analysis
+- For applicable attributes, define the factor levels and descriptive labels of the factors as defined in  [data dictionary](Data_Dictionary.md).
+- Create another subset to extract only all records that are complete cases (observations with no NA values) to filter out those observations that are not meant to be included
+- Perform the tabulation and print snapshot of tables
+- Generate the graph based on the tabulated tables 
+
+######Reproducibility of Results:
+Each hypothesis includes the source code and can be reproduced independently for future verification and improvement.
 
 
 <BR>
