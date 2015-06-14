@@ -1,22 +1,7 @@
 
-# Transport Accident Analysis
+#Transport Accident Analysis
 #####**Exploring Insights from National Collision Database (NCDB) Open Data from Transport Canada**
-
-------
-
-
-No. | Hypothesis | Result | Source Code 
-----|-----------|--------|------------|
-1. | Which types of vehicular collisions have high trend of fatalities and injuries from 1999 to 2011? | [Results](doc/H01/Hypothesis_01.md) | [Source Code](doc/H01/H01_scripts.R)
-2. | Which passenger seat position in the Light Duty Vehicles is the safest/most dangerous?| [Results](doc/H02/Hypothesis_02.md) | [Source Code](doc/H02/H02_scripts.R)
-3. | Do drivers with different genders have different accident pattern?| [Results](doc/H03/Hypothesis_03.md) | [Source Code](doc/H03/H03_scripts.R)
-4. | Is there a certain age range of drivers that are more likely to be involved in a single vehicular accident? | [Results](doc/H04/Hypothesis_04.md) | [Source Code](doc/H04/H04_scripts.R)
-5. | In terms of single vehicular accidents, are young male drivers more dangerous compared to female? | [Results](doc/H05/Hypothesis_05.md) | [Source Code](doc/H05/H05_scripts.R)
-6. | Which types of accidents are more frequent in various road surface conditions (e.g. dry, wet, snowy and icy) ? | [Results](doc/H06/Hypothesis_06.md) | [Source Code](doc/H06/H06_scripts.R)
-7. | Which types of accidents are more frequent in various road alignments (e.g. Straight, curved, hill, and gradient)? | [Results](doc/H07/Hypothesis_07.md) | [Source Code](doc/H07/H07_scripts.R)
-8. | What roadway configurations (e.g. intersection, ramp etc.) and weather (e.g. raining, snowing etc.) have high frequency of collision?| [Results](doc/H08/Hypothesis_08.md) | [Source Code](doc/H08/H08_scripts.R)
-9. | Which month of the year usually have high collision rate? | [Results](doc/H09/Hypothesis_09.md) | [Source Code](doc/H09/H09_scripts.R)
-10. | Which particular day and time of the week have high collision rate? | [Results](doc/H10/Hypothesis_10.md) | [Source Code](doc/H10/H10_scripts.R)
+==========
 
  
 
@@ -98,4 +83,22 @@ Dataset is loaded into dataframe named "NCDB" and replaced the unknown and not a
 Factors of the attributes are changed into descriptive labels according to the [data dictionary](Data_Dictionary.md).
 Filter the datasets into "complete cases only" to remove not applicable values.
 Capture the screenshots of the tables and Generate the graph.
+
+
+<BR>
+## Results
+
+No. | Hypothesis | Result | Source Code 
+----|-----------|--------|------------|
+1. | Which types of vehicular collisions have high trend of fatalities and injuries from 1999 to 2011? | [Results](doc/H01/Hypothesis_01.md) | [Source Code](doc/H01/H01_scripts.R)
+2. | Which passenger seat position in the Light Duty Vehicles is the safest/most dangerous?| [Results](doc/H02/Hypothesis_02.md) | [Source Code](doc/H02/H02_scripts.R)
+3. | Do drivers with different genders have different accident pattern?| [Results](doc/H03/Hypothesis_03.md) | [Source Code](doc/H03/H03_scripts.R)
+4. | Is there a certain age range of drivers that are more likely to be involved in a single vehicular accident? | [Results](doc/H04/Hypothesis_04.md) | [Source Code](doc/H04/H04_scripts.R)
+5. | In terms of single vehicular accidents, are young male drivers more dangerous compared to female? | [Results](doc/H05/Hypothesis_05.md) | [Source Code](doc/H05/H05_scripts.R)
+6. | Which types of accidents are more frequent in various road surface conditions (e.g. dry, wet, snowy and icy) ? | [Results](doc/H06/Hypothesis_06.md) | [Source Code](doc/H06/H06_scripts.R)
+7. | Which types of accidents are more frequent in various road alignments (e.g. Straight, curved, hill, and gradient)? | [Results](doc/H07/Hypothesis_07.md) | [Source Code](doc/H07/H07_scripts.R)
+8. | What roadway configurations (e.g. intersection, ramp etc.) and weather (e.g. raining, snowing etc.) have high frequency of collision?| [Results](doc/H08/Hypothesis_08.md) | [Source Code](doc/H08/H08_scripts.R)
+9. | Which month of the year usually have high collision rate? | [Results](doc/H09/Hypothesis_09.md) | [Source Code](doc/H09/H09_scripts.R)
+10. | Which particular day and time of the week have high collision rate? | [Results](doc/H10/Hypothesis_10.md) | [Source Code](doc/H10/H10_scripts.R)
+
 
