@@ -120,8 +120,6 @@ From a decade compilation of police-reported motor vehicle collisions, we can un
 
 Still, a vast majority of the accidents happen on good weather condition, on perfect road surface and alignment configuration which suggests that there might still be a lot of ways to improve other human controllable factors.   
 
-This study might provide understanding  to transport authorities, road and car engineers, insurance and government policy makers.
-
-Since this is an exploration of a public open data with limited sensitive attributes, it can help realize to explore the potential of visualizing other organization’s private data and to help realize the importance of collecting more  attributes might be very valuable over time. For example, for this dataset, by providing geo-location, it might help to further investigate road configuration of prone-accident zone. By providing car model/make and fault type, might trigger a trend to common faulty vehicle parts or recall to manufacturer.
+This study might provide understanding  to transport authorities, road and car engineers, insurance and government policy makers. Since this is an exploration of a public open data with limited sensitive attributes, it can help realize to explore the potential of visualizing other organization’s private data and to help realize the importance of collecting more  attributes might be very valuable over time. For example, for this dataset, by providing geo-location, it might help to further investigate road configuration of prone-accident zone. By providing car model/make and fault type, might trigger a trend to common faulty vehicle parts or recall to manufacturer.
 
 
