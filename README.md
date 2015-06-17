@@ -116,10 +116,11 @@ No. | Hypothesis | Result | Source Code
 
 
 ###Conclusion
-From a decade compilation of police-reported motor vehicle collisions, we can uncover some rich and useful insights of accident trends and patterns.  One positive insight that we can see is that there is a good decline trend of fatal and injury related collisions over the years. 
+From a decade compilation of police-reported motor vehicle collisions, we can uncover some rich and useful insights of accident trends and patterns. One positive insight that we can see is that there is a good decline trend of fatal and injury related collisions over the years.
 
-Still, a vast majority of the accidents happen on good weather condition, on perfect road surface and alignment configuration which suggests that there might still be a lot of ways to improve other human controllable factors.   
+Still, a vast majority of the accidents still happen on good weather condition, on perfect road surface and alignment configuration which implies that there might still be a lot of human controllable factors that can be improved.
 
-This study might provide understanding  to transport authorities, road and car engineers, insurance and government policy makers. Since this is an exploration of a public open data with limited sensitive attributes, it can help realize to explore the potential of visualizing other organization’s private data and to help realize the importance of collecting more  attributes might be very valuable over time. For example, for this dataset, by providing geo-location, it might help to further investigate road configuration of prone-accident zone. By providing car model/make and fault type, might trigger a trend to common faulty vehicle parts or recall to manufacturer.
+This study might provide understanding to transport authorities, road and car engineers, insurance and government policy makers to further decrease the vehicular accident rate. Since this is an exploration of a public open data which is limited in sensitive attributes, it can help realize the potential of uncovering useful information and to realize the importance of collecting attributes that might be very valuable over time. For example, for this dataset, geo-location might suggest investigation of road configuration or alignment in prone-accident zone under different weather condition. Another example, by providing car/model and fault type of accident might trigger an early indication of common fault parts of vehicles etc.
+
 
 
