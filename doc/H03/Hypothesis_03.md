@@ -1,4 +1,4 @@
-#### Hypothesis 03:
+#### 03:
 ### Do drivers with different genders have different accident pattern?
 --
 
