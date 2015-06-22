@@ -1,4 +1,4 @@
-#### Hypothesis 04:
+#### 04:
 ### Is there a certain age range of drivers that are more likely to be involved in a single vehicular accident?
 --
 
