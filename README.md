@@ -98,7 +98,7 @@ Each hypothesis includes the source code and can be reproduced independently for
 <BR>
 ### Results
 
-No. | Hypothesis | Result | Source Code 
+No. | Research Question | Result | Source Code 
 ----|-----------|--------|------------|
 1. | Which types of vehicular collisions have high trend of fatalities and injuries from 1999 to 2011? | [Results](doc/H01/Hypothesis_01.md) | [Source Code](doc/H01/H01_scripts.R)
 2. | Which passenger seat position in the Light Duty Vehicles is the safest/most dangerous?| [Results](doc/H02/Hypothesis_02.md) | [Source Code](doc/H02/H02_scripts.R)
