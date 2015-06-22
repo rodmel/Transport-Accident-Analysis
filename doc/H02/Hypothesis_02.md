@@ -1,4 +1,4 @@
-#### Hypothesis 02:
+#### 02:
 ### Which passenger seat position in the Light Duty Vehicles is the safest/most dangerous?
 --
 
