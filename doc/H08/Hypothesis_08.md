@@ -1,4 +1,4 @@
-#### Hypothesis 08:
+#### 08:
 ### What roadway configurations (e.g. intersection, ramp etc.) and weather (e.g. raining, snowing etc.) have high frequency of collision?
 --
 
