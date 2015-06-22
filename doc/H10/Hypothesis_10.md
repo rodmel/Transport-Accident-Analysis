@@ -1,4 +1,4 @@
-#### Hypothesis 10:
+#### 10:
 ### Which particular day and time of the week have high collision rate?
 
 --
