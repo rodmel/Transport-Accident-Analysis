@@ -1,4 +1,4 @@
-##### Hypothesis 01:
+##### 01:
 ### Which types of vehicular collisions have high trend of fatalities and injuries from 1999 to 2011?
 --
 
