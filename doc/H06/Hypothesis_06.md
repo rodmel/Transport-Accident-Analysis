@@ -1,4 +1,4 @@
-#### Hypothesis 06:
+#### 06:
 ### Which types of accidents are more frequent in various road surface conditions?
 
 --
