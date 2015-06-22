@@ -1,4 +1,4 @@
-#### Hypothesis 07:
+#### 07:
 ### Which types of accidents are more frequent in various road alignments?
 
 This hypothesis tries to determine if there is a different collission trends between different road alignments.
